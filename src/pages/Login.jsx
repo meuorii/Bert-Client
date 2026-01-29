@@ -4,6 +4,7 @@ import {
   Lock, Mail, Eye, EyeOff, ShieldCheck, 
   Loader2, Check, ArrowRight, ShieldAlert
 } from 'lucide-react';
+import { loginAdmin } from '../service/api';
 
 const AdminLogin = () => {
   const navigate = useNavigate();
@@ -51,13 +52,8 @@ const AdminLogin = () => {
     setModalMessage('Establishing secure connection...');
 
     try {
-      const response = await fetch('http://127.0.0.1:5000/api/login', { 
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify(formData),
-      });
-
-      const result = await response.json();
+      const response = await loginAdmin(formData);
+      const result = response.data;
 
       if (result.success) {
         setModalStatus('success');
@@ -293,6 +289,7 @@ const AdminLogin = () => {
                   <input 
                     name="email"
                     type="email" 
+                    value={formData.email}
                     onChange={handleInputChange}
                     className="w-full bg-white border border-slate-200 rounded-2xl pl-12 pr-4 py-4 text-slate-900 shadow-sm transition-all focus:ring-4 focus:ring-blue-500/5 focus:border-blue-500 outline-none placeholder:text-slate-300"
                     placeholder="Enter your official gov email"

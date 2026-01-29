@@ -26,7 +26,7 @@ import {
   AreaChart,
   Area,
 } from "recharts";
-import axios from "axios";
+import { getDashboardData, getRecentFeedback } from "../service/api";
 
 // --- 2. ICON HELPER ---
 const getIcon = (name, size = 24) => {
@@ -170,8 +170,8 @@ const AdminOverview = () => {
       try {
         setLoading(true);
         const [dashRes, feedbackRes] = await Promise.all([
-          axios.get("http://127.0.0.1:5000/api/dashboard"),
-          axios.get("http://127.0.0.1:5000/api/recent-feedback"),
+          getDashboardData(),
+          getRecentFeedback(),
         ]);
 
         setDashboardDatabase(dashRes.data);

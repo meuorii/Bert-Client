@@ -26,7 +26,8 @@ import {
   Area
 } from "recharts";
 import { motion as Motion, AnimatePresence } from "framer-motion";
-import axios from "axios";
+import { getServicePerformance } from "../service/api";
+import { getNegativeFeedback } from "../service/api";
 
 const SkeletonLoader = () => (
   <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4 space-y-10 animate-pulse">
@@ -83,16 +84,17 @@ const ServicePerformance = () => {
       
       try {
         // 1. Priority: Load main performance data
-        const res = await axios.get("http://127.0.0.1:5000/api/service-performance");
+        const res = await getServicePerformance();
         setServiceData(res.data);
         setLoading(false); // Tapos na ang main loading ng page
 
         // 2. Secondary: Load feedback in the background
-        const feedbackRes = await axios.get("http://127.0.0.1:5000/api/get-negative-feedback");
+        const feedbackRes = await getNegativeFeedback();
         setNegativeFeedback(feedbackRes.data);
       } catch (err) {
         console.error(err);
-        setLoading(false);
+        setLoading(false); 
+        setError("Something went wrong while fetching performance data.");
       }
     };
     loadData();

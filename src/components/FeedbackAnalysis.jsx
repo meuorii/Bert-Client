@@ -25,6 +25,7 @@ import {
   AreaChart
 } from 'recharts'; 
 import { motion as Motion, AnimatePresence } from "framer-motion";
+import { getAllFeedback } from '../service/api';
 
 const FeedbackAnalysis = () => {
   const [searchTerm, setSearchTerm] = useState("");
@@ -38,11 +39,9 @@ const FeedbackAnalysis = () => {
   useEffect(() => {
     const fetchFeedback = async () => {
       try {
-        const res = await fetch("http://127.0.0.1:5000/api/all-feedback");
-        const json = await res.json();
-
-        // IMPORTANT: your API response has { feedback: [...] }
-        setFeedbackData(json.feedback || []);
+        setLoading(true);
+        const res = await getAllFeedback();
+        setFeedbackData(res.data.feedback || res.data || []);
       } catch (err) {
         console.error(err);
         setError("Failed to load feedback data");

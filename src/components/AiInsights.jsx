@@ -1,5 +1,5 @@
 import { useEffect, useState, useMemo } from "react";
-import axios from "axios";
+import { getRecommendations } from "../service/api";
 import {
   Sparkles,
   AlertTriangle,
@@ -24,9 +24,7 @@ const AiInsights = () => {
     const fetchData = async () => {
       try {
         setLoading(true);
-        const response = await axios.get(
-          "http://localhost:5000/api/recommendations",
-        );
+        const response = await getRecommendations();
         setInsightData(response.data);
       } catch (error) {
         console.error("Error fetching recommendations:", error);
