@@ -1,0 +1,181 @@
+{
+  "daily": {
+    "period": "daily",
+    "start_date": "2026-01-13",
+    "end_date": "2026-01-19",
+    "summary": {
+      "overall_severity": "Critical",
+      "confidence_score": 0.95
+    },
+    "recommendations": {
+      "Public Satisfaction": [
+        {
+          "dimension": "Overall Service Experience",
+          "severity": "Critical",
+          "issue": "High overall public dissatisfaction with government services",
+          "root_cause": "Multiple service weaknesses across different service quality dimensions",
+          "impact": "Low public confidence and negative perception of government performance",
+          "actions": [
+            "Analyze negative feedback to identify common problem patterns",
+            "Create a comprehensive service improvement action plan",
+            "Conduct customer service and values training for all staff",
+            "Monitor service performance regularly and apply corrective actions"
+          ],
+          "confidence": 0.95
+        }
+      ],
+      "Service Quality": [
+        {
+          "dimension": "responsiveness",
+          "severity": "High",
+          "issue": "Slow response to citizen requests and inquiries",
+          "root_cause": "Lack of response time standards, monitoring, and workload prioritization",
+          "impact": "Delays frustrate citizens and reduce trust in government efficiency",
+          "actions": [
+            "Set clear response time standards",
+            "Use a ticket-based system",
+            "Assign staff for monitoring",
+            "Train frontline staff"
+          ],
+          "confidence": 0.85
+        }
+      ],
+      "Information Dissemination": [
+        {
+          "dimension": "Citizen Charter Awareness",
+          "severity": "Medium",
+          "issue": "Low public awareness of the Citizen’s Charter",
+          "root_cause": "Ineffective information dissemination strategies",
+          "impact": "Citizens are unaware of rights and service standards",
+          "actions": [
+            "Post Citizen’s Charter publicly",
+            "Distribute brochures",
+            "Publish on website and social media",
+            "Educate citizens"
+          ],
+          "confidence": 0.7
+        }
+      ]
+    }
+  },
+
+  "weekly": {
+    "period": "weekly",
+    "start_date": "2026-01-13",
+    "end_date": "2026-01-19",
+    "summary": {
+      "overall_severity": "Critical",
+      "confidence_score": 0.95
+    },
+    "recommendations": {
+      "Public Satisfaction": [
+        {
+          "dimension": "Overall Service Experience",
+          "severity": "Critical",
+          "issue": "High overall public dissatisfaction with government services",
+          "root_cause": "Multiple service weaknesses across different service quality dimensions",
+          "impact": "Low public confidence and negative perception of government performance",
+          "actions": [
+            "Analyze negative feedback to identify common problem patterns",
+            "Create a comprehensive service improvement action plan",
+            "Conduct customer service and values training for all staff",
+            "Monitor service performance regularly and apply corrective actions"
+          ],
+          "confidence": 0.95
+        }
+      ],
+      "Service Quality": [
+        {
+          "dimension": "responsiveness",
+          "severity": "High",
+          "issue": "Slow response to citizen requests and inquiries",
+          "root_cause": "Lack of response time standards, monitoring, and workload prioritization",
+          "impact": "Delays frustrate citizens and reduce trust in government efficiency",
+          "actions": [
+            "Set clear response time standards",
+            "Use a ticket-based system",
+            "Assign staff for monitoring",
+            "Train frontline staff"
+          ],
+          "confidence": 0.85
+        }
+      ],
+      "Information Dissemination": [
+        {
+          "dimension": "Citizen Charter Awareness",
+          "severity": "Medium",
+          "issue": "Low public awareness of the Citizen’s Charter",
+          "root_cause": "Ineffective information dissemination strategies",
+          "impact": "Citizens are unaware of rights and service standards",
+          "actions": [
+            "Post Citizen’s Charter publicly",
+            "Distribute brochures",
+            "Publish on website and social media",
+            "Educate citizens"
+          ],
+          "confidence": 0.7
+        }
+      ]
+    }
+  },
+
+  "monthly": {
+    "period": "monthly",
+    "start_date": "2026-01-13",
+    "end_date": "2026-01-19",
+    "summary": {
+      "overall_severity": "Critical",
+      "confidence_score": 0.95
+    },
+    "recommendations": {
+      "Public Satisfaction": [
+        {
+          "dimension": "Overall Service Experience",
+          "severity": "Critical",
+          "issue": "High overall public dissatisfaction with government services",
+          "root_cause": "Multiple service weaknesses across different service quality dimensions",
+          "impact": "Low public confidence and negative perception of government performance",
+          "actions": [
+            "Analyze negative feedback to identify common problem patterns",
+            "Create a comprehensive service improvement action plan",
+            "Conduct customer service and values training for all staff",
+            "Monitor service performance regularly and apply corrective actions"
+          ],
+          "confidence": 0.95
+        }
+      ],
+      "Service Quality": [
+        {
+          "dimension": "responsiveness",
+          "severity": "High",
+          "issue": "Slow response to citizen requests and inquiries",
+          "root_cause": "Lack of response time standards, monitoring, and workload prioritization",
+          "impact": "Delays frustrate citizens and reduce trust in government efficiency",
+          "actions": [
+            "Set clear response time standards",
+            "Use a ticket-based system",
+            "Assign staff for monitoring",
+            "Train frontline staff"
+          ],
+          "confidence": 0.85
+        }
+      ],
+      "Information Dissemination": [
+        {
+          "dimension": "Citizen Charter Awareness",
+          "severity": "Medium",
+          "issue": "Low public awareness of the Citizen’s Charter",
+          "root_cause": "Ineffective information dissemination strategies",
+          "impact": "Citizens are unaware of rights and service standards",
+          "actions": [
+            "Post Citizen’s Charter publicly",
+            "Distribute brochures",
+            "Publish on website and social media",
+            "Educate citizens"
+          ],
+          "confidence": 0.7
+        }
+      ]
+    }
+  }
+}

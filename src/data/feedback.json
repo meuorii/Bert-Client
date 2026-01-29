@@ -1,0 +1,1205 @@
+{
+  "feedback": [
+    {
+      "client": "General Public",
+      "id": 1,
+      "sentiment": "Positive",
+      "service": "Barangay Clearance",
+      "text": "Mabilis ang proseso at maasikaso ang personnel.",
+      "time": "08:03 AM"
+    },
+    {
+      "client": "General Public",
+      "id": 2,
+      "sentiment": "Neutral",
+      "service": "Barangay Clearance",
+      "text": "Standard lang ang serbisyo, walang problema.",
+      "time": "08:06 AM"
+    },
+    {
+      "client": "General Public",
+      "id": 3,
+      "sentiment": "Neutral",
+      "service": "Civil Registry",
+      "text": "Katamtaman lang ang bilis ng proseso.",
+      "time": "08:09 AM"
+    },
+    {
+      "client": "General Public",
+      "id": 4,
+      "sentiment": "Positive",
+      "service": "Community Service",
+      "text": "Malinaw ang paliwanag at accommodating ang staff.",
+      "time": "08:12 AM"
+    },
+    {
+      "client": "General Public",
+      "id": 5,
+      "sentiment": "Neutral",
+      "service": "Business Permit",
+      "text": "Katamtaman lang ang bilis ng proseso.",
+      "time": "08:15 AM"
+    },
+    {
+      "client": "General Public",
+      "id": 6,
+      "sentiment": "Negative",
+      "service": "Health Services",
+      "text": "Mabagal ang serbisyo at maraming hinihingi.",
+      "time": "08:18 AM"
+    },
+    {
+      "client": "General Public",
+      "id": 7,
+      "sentiment": "Positive",
+      "service": "Tax Inquiry",
+      "text": "Maayos at mabilis ang serbisyo, very satisfied.",
+      "time": "08:21 AM"
+    },
+    {
+      "client": "General Public",
+      "id": 8,
+      "sentiment": "Negative",
+      "service": "Health Services",
+      "text": "Matagal ang paghihintay sa pila.",
+      "time": "08:24 AM"
+    },
+    {
+      "client": "General Public",
+      "id": 9,
+      "sentiment": "Neutral",
+      "service": "Civil Registry",
+      "text": "Okay naman ang proseso, may kaunting hintayan.",
+      "time": "08:27 AM"
+    },
+    {
+      "client": "General Public",
+      "id": 10,
+      "sentiment": "Positive",
+      "service": "Tax Inquiry",
+      "text": "Maayos at mabilis ang serbisyo, very satisfied.",
+      "time": "08:30 AM"
+    },
+    {
+      "client": "General Public",
+      "id": 11,
+      "sentiment": "Neutral",
+      "service": "Health Services",
+      "text": "Nagawa naman ang kailangan.",
+      "time": "08:33 AM"
+    },
+    {
+      "client": "General Public",
+      "id": 12,
+      "sentiment": "Negative",
+      "service": "Community Service",
+      "text": "Nakakalito ang instructions.",
+      "time": "08:36 AM"
+    },
+    {
+      "client": "General Public",
+      "id": 13,
+      "sentiment": "Negative",
+      "service": "Health Services",
+      "text": "Matagal ang proseso at kulang ang staff.",
+      "time": "08:39 AM"
+    },
+    {
+      "client": "General Public",
+      "id": 14,
+      "sentiment": "Neutral",
+      "service": "Business Permit",
+      "text": "Maayos naman ang serbisyo, sakto lang.",
+      "time": "08:42 AM"
+    },
+    {
+      "client": "General Public",
+      "id": 15,
+      "sentiment": "Negative",
+      "service": "Health Services",
+      "text": "Hindi malinaw ang mga requirements.",
+      "time": "08:45 AM"
+    },
+    {
+      "client": "General Public",
+      "id": 16,
+      "sentiment": "Negative",
+      "service": "Tax Inquiry",
+      "text": "Matagal ang proseso at kulang ang staff.",
+      "time": "08:48 AM"
+    },
+    {
+      "client": "General Public",
+      "id": 17,
+      "sentiment": "Negative",
+      "service": "Barangay Clearance",
+      "text": "Nakakalito ang instructions.",
+      "time": "08:51 AM"
+    },
+    {
+      "client": "General Public",
+      "id": 18,
+      "sentiment": "Positive",
+      "service": "Civil Registry",
+      "text": "Maayos at mabilis ang serbisyo, very satisfied.",
+      "time": "08:54 AM"
+    },
+    {
+      "client": "General Public",
+      "id": 19,
+      "sentiment": "Negative",
+      "service": "Barangay Clearance",
+      "text": "Hindi malinaw ang mga requirements.",
+      "time": "08:57 AM"
+    },
+    {
+      "client": "General Public",
+      "id": 20,
+      "sentiment": "Positive",
+      "service": "Civil Registry",
+      "text": "Malinaw ang paliwanag at accommodating ang staff.",
+      "time": "09:00 AM"
+    },
+    {
+      "client": "General Public",
+      "id": 21,
+      "sentiment": "Neutral",
+      "service": "Barangay Clearance",
+      "text": "Okay naman ang proseso, may kaunting hintayan.",
+      "time": "09:03 AM"
+    },
+    {
+      "client": "General Public",
+      "id": 22,
+      "sentiment": "Neutral",
+      "service": "Health Services",
+      "text": "Standard lang ang serbisyo, walang problema.",
+      "time": "09:06 AM"
+    },
+    {
+      "client": "General Public",
+      "id": 23,
+      "sentiment": "Positive",
+      "service": "Business Permit",
+      "text": "Mabilis ang proseso at maasikaso ang personnel.",
+      "time": "09:09 AM"
+    },
+    {
+      "client": "General Public",
+      "id": 24,
+      "sentiment": "Neutral",
+      "service": "Barangay Clearance",
+      "text": "Okay naman ang proseso, may kaunting hintayan.",
+      "time": "09:12 AM"
+    },
+    {
+      "client": "General Public",
+      "id": 25,
+      "sentiment": "Neutral",
+      "service": "Business Permit",
+      "text": "Maayos naman ang serbisyo, sakto lang.",
+      "time": "09:15 AM"
+    },
+    {
+      "client": "General Public",
+      "id": 26,
+      "sentiment": "Neutral",
+      "service": "Health Services",
+      "text": "Maayos naman ang serbisyo, sakto lang.",
+      "time": "09:18 AM"
+    },
+    {
+      "client": "General Public",
+      "id": 27,
+      "sentiment": "Negative",
+      "service": "Community Service",
+      "text": "Matagal ang proseso at kulang ang staff.",
+      "time": "09:21 AM"
+    },
+    {
+      "client": "General Public",
+      "id": 28,
+      "sentiment": "Neutral",
+      "service": "Health Services",
+      "text": "Nagawa naman ang kailangan.",
+      "time": "09:24 AM"
+    },
+    {
+      "client": "General Public",
+      "id": 29,
+      "sentiment": "Positive",
+      "service": "Social Welfare",
+      "text": "Maayos at mabilis ang serbisyo, very satisfied.",
+      "time": "09:27 AM"
+    },
+    {
+      "client": "General Public",
+      "id": 30,
+      "sentiment": "Neutral",
+      "service": "Barangay Clearance",
+      "text": "Standard lang ang serbisyo, walang problema.",
+      "time": "09:30 AM"
+    },
+    {
+      "client": "General Public",
+      "id": 31,
+      "sentiment": "Neutral",
+      "service": "Community Service",
+      "text": "Katamtaman lang ang bilis ng proseso.",
+      "time": "09:33 AM"
+    },
+    {
+      "client": "General Public",
+      "id": 32,
+      "sentiment": "Neutral",
+      "service": "Business Permit",
+      "text": "Maayos naman ang serbisyo, sakto lang.",
+      "time": "09:36 AM"
+    },
+    {
+      "client": "General Public",
+      "id": 33,
+      "sentiment": "Positive",
+      "service": "Social Welfare",
+      "text": "Mabilis ang proseso at maasikaso ang personnel.",
+      "time": "09:39 AM"
+    },
+    {
+      "client": "General Public",
+      "id": 34,
+      "sentiment": "Negative",
+      "service": "Civil Registry",
+      "text": "Mabagal ang serbisyo at maraming hinihingi.",
+      "time": "09:42 AM"
+    },
+    {
+      "client": "General Public",
+      "id": 35,
+      "sentiment": "Neutral",
+      "service": "Community Service",
+      "text": "Standard lang ang serbisyo, walang problema.",
+      "time": "09:45 AM"
+    },
+    {
+      "client": "General Public",
+      "id": 36,
+      "sentiment": "Neutral",
+      "service": "Health Services",
+      "text": "Katamtaman lang ang bilis ng proseso.",
+      "time": "09:48 AM"
+    },
+    {
+      "client": "General Public",
+      "id": 37,
+      "sentiment": "Neutral",
+      "service": "Tax Inquiry",
+      "text": "Okay naman ang proseso, may kaunting hintayan.",
+      "time": "09:51 AM"
+    },
+    {
+      "client": "General Public",
+      "id": 38,
+      "sentiment": "Neutral",
+      "service": "Community Service",
+      "text": "Nagawa naman ang kailangan.",
+      "time": "09:54 AM"
+    },
+    {
+      "client": "General Public",
+      "id": 39,
+      "sentiment": "Negative",
+      "service": "Civil Registry",
+      "text": "Mabagal ang serbisyo at maraming hinihingi.",
+      "time": "09:57 AM"
+    },
+    {
+      "client": "General Public",
+      "id": 40,
+      "sentiment": "Negative",
+      "service": "Civil Registry",
+      "text": "Matagal ang proseso at kulang ang staff.",
+      "time": "10:00 AM"
+    },
+    {
+      "client": "General Public",
+      "id": 41,
+      "sentiment": "Negative",
+      "service": "Social Welfare",
+      "text": "Nakakalito ang instructions.",
+      "time": "10:03 AM"
+    },
+    {
+      "client": "General Public",
+      "id": 42,
+      "sentiment": "Neutral",
+      "service": "Community Service",
+      "text": "Nagawa naman ang kailangan.",
+      "time": "10:06 AM"
+    },
+    {
+      "client": "General Public",
+      "id": 43,
+      "sentiment": "Neutral",
+      "service": "Tax Inquiry",
+      "text": "Okay naman ang proseso, may kaunting hintayan.",
+      "time": "10:09 AM"
+    },
+    {
+      "client": "General Public",
+      "id": 44,
+      "sentiment": "Neutral",
+      "service": "Business Permit",
+      "text": "Maayos naman ang serbisyo, sakto lang.",
+      "time": "10:12 AM"
+    },
+    {
+      "client": "General Public",
+      "id": 45,
+      "sentiment": "Neutral",
+      "service": "Barangay Clearance",
+      "text": "Okay naman ang proseso, may kaunting hintayan.",
+      "time": "10:15 AM"
+    },
+    {
+      "client": "General Public",
+      "id": 46,
+      "sentiment": "Positive",
+      "service": "Community Service",
+      "text": "Smooth ang transaction at maayos ang sistema.",
+      "time": "10:18 AM"
+    },
+    {
+      "client": "General Public",
+      "id": 47,
+      "sentiment": "Positive",
+      "service": "Civil Registry",
+      "text": "Malinaw ang paliwanag at accommodating ang staff.",
+      "time": "10:21 AM"
+    },
+    {
+      "client": "General Public",
+      "id": 48,
+      "sentiment": "Neutral",
+      "service": "Health Services",
+      "text": "Okay naman ang proseso, may kaunting hintayan.",
+      "time": "10:24 AM"
+    },
+    {
+      "client": "General Public",
+      "id": 49,
+      "sentiment": "Positive",
+      "service": "Barangay Clearance",
+      "text": "Mabilis ang proseso at maasikaso ang personnel.",
+      "time": "10:27 AM"
+    },
+    {
+      "client": "General Public",
+      "id": 50,
+      "sentiment": "Negative",
+      "service": "Business Permit",
+      "text": "Nakakalito ang instructions.",
+      "time": "10:30 AM"
+    },
+    {
+      "client": "General Public",
+      "id": 51,
+      "sentiment": "Neutral",
+      "service": "Community Service",
+      "text": "Maayos naman ang serbisyo, sakto lang.",
+      "time": "10:33 AM"
+    },
+    {
+      "client": "General Public",
+      "id": 52,
+      "sentiment": "Positive",
+      "service": "Civil Registry",
+      "text": "Mabilis ang proseso at maasikaso ang personnel.",
+      "time": "10:36 AM"
+    },
+    {
+      "client": "General Public",
+      "id": 53,
+      "sentiment": "Positive",
+      "service": "Barangay Clearance",
+      "text": "Magalang at helpful ang staff, mabilis ang proseso.",
+      "time": "10:39 AM"
+    },
+    {
+      "client": "General Public",
+      "id": 54,
+      "sentiment": "Neutral",
+      "service": "Civil Registry",
+      "text": "Maayos naman ang serbisyo, sakto lang.",
+      "time": "10:42 AM"
+    },
+    {
+      "client": "General Public",
+      "id": 55,
+      "sentiment": "Neutral",
+      "service": "Civil Registry",
+      "text": "Katamtaman lang ang bilis ng proseso.",
+      "time": "10:45 AM"
+    },
+    {
+      "client": "General Public",
+      "id": 56,
+      "sentiment": "Positive",
+      "service": "Tax Inquiry",
+      "text": "Smooth ang transaction at maayos ang sistema.",
+      "time": "10:48 AM"
+    },
+    {
+      "client": "General Public",
+      "id": 57,
+      "sentiment": "Negative",
+      "service": "Community Service",
+      "text": "Matagal ang paghihintay sa pila.",
+      "time": "10:51 AM"
+    },
+    {
+      "client": "General Public",
+      "id": 58,
+      "sentiment": "Neutral",
+      "service": "Barangay Clearance",
+      "text": "Standard lang ang serbisyo, walang problema.",
+      "time": "10:54 AM"
+    },
+    {
+      "client": "General Public",
+      "id": 59,
+      "sentiment": "Positive",
+      "service": "Tax Inquiry",
+      "text": "Smooth ang transaction at maayos ang sistema.",
+      "time": "10:57 AM"
+    },
+    {
+      "client": "General Public",
+      "id": 60,
+      "sentiment": "Positive",
+      "service": "Health Services",
+      "text": "Smooth ang transaction at maayos ang sistema.",
+      "time": "11:00 AM"
+    },
+    {
+      "client": "General Public",
+      "id": 61,
+      "sentiment": "Positive",
+      "service": "Civil Registry",
+      "text": "Smooth ang transaction at maayos ang sistema.",
+      "time": "11:03 AM"
+    },
+    {
+      "client": "General Public",
+      "id": 62,
+      "sentiment": "Positive",
+      "service": "Social Welfare",
+      "text": "Malinaw ang paliwanag at accommodating ang staff.",
+      "time": "11:06 AM"
+    },
+    {
+      "client": "General Public",
+      "id": 63,
+      "sentiment": "Positive",
+      "service": "Tax Inquiry",
+      "text": "Maayos at mabilis ang serbisyo, very satisfied.",
+      "time": "11:09 AM"
+    },
+    {
+      "client": "General Public",
+      "id": 64,
+      "sentiment": "Neutral",
+      "service": "Tax Inquiry",
+      "text": "Maayos naman ang serbisyo, sakto lang.",
+      "time": "11:12 AM"
+    },
+    {
+      "client": "General Public",
+      "id": 65,
+      "sentiment": "Positive",
+      "service": "Health Services",
+      "text": "Mabilis ang proseso at maasikaso ang personnel.",
+      "time": "11:15 AM"
+    },
+    {
+      "client": "General Public",
+      "id": 66,
+      "sentiment": "Positive",
+      "service": "Community Service",
+      "text": "Malinaw ang paliwanag at accommodating ang staff.",
+      "time": "11:18 AM"
+    },
+    {
+      "client": "General Public",
+      "id": 67,
+      "sentiment": "Neutral",
+      "service": "Health Services",
+      "text": "Maayos naman ang serbisyo, sakto lang.",
+      "time": "11:21 AM"
+    },
+    {
+      "client": "General Public",
+      "id": 68,
+      "sentiment": "Positive",
+      "service": "Civil Registry",
+      "text": "Malinaw ang paliwanag at accommodating ang staff.",
+      "time": "11:24 AM"
+    },
+    {
+      "client": "General Public",
+      "id": 69,
+      "sentiment": "Positive",
+      "service": "Health Services",
+      "text": "Malinaw ang paliwanag at accommodating ang staff.",
+      "time": "11:27 AM"
+    },
+    {
+      "client": "General Public",
+      "id": 70,
+      "sentiment": "Negative",
+      "service": "Business Permit",
+      "text": "Matagal ang paghihintay sa pila.",
+      "time": "11:30 AM"
+    },
+    {
+      "client": "General Public",
+      "id": 71,
+      "sentiment": "Positive",
+      "service": "Tax Inquiry",
+      "text": "Mabilis ang proseso at maasikaso ang personnel.",
+      "time": "11:33 AM"
+    },
+    {
+      "client": "General Public",
+      "id": 72,
+      "sentiment": "Neutral",
+      "service": "Social Welfare",
+      "text": "Maayos naman ang serbisyo, sakto lang.",
+      "time": "11:36 AM"
+    },
+    {
+      "client": "General Public",
+      "id": 73,
+      "sentiment": "Positive",
+      "service": "Health Services",
+      "text": "Mabilis ang proseso at maasikaso ang personnel.",
+      "time": "11:39 AM"
+    },
+    {
+      "client": "General Public",
+      "id": 74,
+      "sentiment": "Positive",
+      "service": "Barangay Clearance",
+      "text": "Malinaw ang paliwanag at accommodating ang staff.",
+      "time": "11:42 AM"
+    },
+    {
+      "client": "General Public",
+      "id": 75,
+      "sentiment": "Negative",
+      "service": "Barangay Clearance",
+      "text": "Matagal ang paghihintay sa pila.",
+      "time": "11:45 AM"
+    },
+    {
+      "client": "General Public",
+      "id": 76,
+      "sentiment": "Neutral",
+      "service": "Business Permit",
+      "text": "Katamtaman lang ang bilis ng proseso.",
+      "time": "11:48 AM"
+    },
+    {
+      "client": "General Public",
+      "id": 77,
+      "sentiment": "Negative",
+      "service": "Business Permit",
+      "text": "Matagal ang proseso at kulang ang staff.",
+      "time": "11:51 AM"
+    },
+    {
+      "client": "General Public",
+      "id": 78,
+      "sentiment": "Positive",
+      "service": "Business Permit",
+      "text": "Maayos at mabilis ang serbisyo, very satisfied.",
+      "time": "11:54 AM"
+    },
+    {
+      "client": "General Public",
+      "id": 79,
+      "sentiment": "Neutral",
+      "service": "Health Services",
+      "text": "Katamtaman lang ang bilis ng proseso.",
+      "time": "11:57 AM"
+    },
+    {
+      "client": "General Public",
+      "id": 80,
+      "sentiment": "Positive",
+      "service": "Social Welfare",
+      "text": "Malinaw ang paliwanag at accommodating ang staff.",
+      "time": "12:00 PM"
+    },
+    {
+      "client": "General Public",
+      "id": 81,
+      "sentiment": "Neutral",
+      "service": "Civil Registry",
+      "text": "Maayos naman ang serbisyo, sakto lang.",
+      "time": "12:03 PM"
+    },
+    {
+      "client": "General Public",
+      "id": 82,
+      "sentiment": "Negative",
+      "service": "Civil Registry",
+      "text": "Matagal ang paghihintay sa pila.",
+      "time": "12:06 PM"
+    },
+    {
+      "client": "General Public",
+      "id": 83,
+      "sentiment": "Positive",
+      "service": "Social Welfare",
+      "text": "Magalang at helpful ang staff, mabilis ang proseso.",
+      "time": "12:09 PM"
+    },
+    {
+      "client": "General Public",
+      "id": 84,
+      "sentiment": "Neutral",
+      "service": "Health Services",
+      "text": "Katamtaman lang ang bilis ng proseso.",
+      "time": "12:12 PM"
+    },
+    {
+      "client": "General Public",
+      "id": 85,
+      "sentiment": "Negative",
+      "service": "Health Services",
+      "text": "Mabagal ang serbisyo at maraming hinihingi.",
+      "time": "12:15 PM"
+    },
+    {
+      "client": "General Public",
+      "id": 86,
+      "sentiment": "Neutral",
+      "service": "Civil Registry",
+      "text": "Maayos naman ang serbisyo, sakto lang.",
+      "time": "12:18 PM"
+    },
+    {
+      "client": "General Public",
+      "id": 87,
+      "sentiment": "Positive",
+      "service": "Health Services",
+      "text": "Smooth ang transaction at maayos ang sistema.",
+      "time": "12:21 PM"
+    },
+    {
+      "client": "General Public",
+      "id": 88,
+      "sentiment": "Positive",
+      "service": "Social Welfare",
+      "text": "Malinaw ang paliwanag at accommodating ang staff.",
+      "time": "12:24 PM"
+    },
+    {
+      "client": "General Public",
+      "id": 89,
+      "sentiment": "Positive",
+      "service": "Business Permit",
+      "text": "Mabilis ang proseso at maasikaso ang personnel.",
+      "time": "12:27 PM"
+    },
+    {
+      "client": "General Public",
+      "id": 90,
+      "sentiment": "Positive",
+      "service": "Business Permit",
+      "text": "Maayos at mabilis ang serbisyo, very satisfied.",
+      "time": "12:30 PM"
+    },
+    {
+      "client": "General Public",
+      "id": 91,
+      "sentiment": "Negative",
+      "service": "Tax Inquiry",
+      "text": "Matagal ang proseso at kulang ang staff.",
+      "time": "12:33 PM"
+    },
+    {
+      "client": "General Public",
+      "id": 92,
+      "sentiment": "Positive",
+      "service": "Civil Registry",
+      "text": "Mabilis ang proseso at maasikaso ang personnel.",
+      "time": "12:36 PM"
+    },
+    {
+      "client": "General Public",
+      "id": 93,
+      "sentiment": "Negative",
+      "service": "Community Service",
+      "text": "Matagal ang proseso at kulang ang staff.",
+      "time": "12:39 PM"
+    },
+    {
+      "client": "General Public",
+      "id": 94,
+      "sentiment": "Positive",
+      "service": "Community Service",
+      "text": "Magalang at helpful ang staff, mabilis ang proseso.",
+      "time": "12:42 PM"
+    },
+    {
+      "client": "General Public",
+      "id": 95,
+      "sentiment": "Positive",
+      "service": "Business Permit",
+      "text": "Maayos at mabilis ang serbisyo, very satisfied.",
+      "time": "12:45 PM"
+    },
+    {
+      "client": "General Public",
+      "id": 96,
+      "sentiment": "Positive",
+      "service": "Business Permit",
+      "text": "Mabilis ang proseso at maasikaso ang personnel.",
+      "time": "12:48 PM"
+    },
+    {
+      "client": "General Public",
+      "id": 97,
+      "sentiment": "Positive",
+      "service": "Community Service",
+      "text": "Maayos at mabilis ang serbisyo, very satisfied.",
+      "time": "12:51 PM"
+    },
+    {
+      "client": "General Public",
+      "id": 98,
+      "sentiment": "Negative",
+      "service": "Health Services",
+      "text": "Mabagal ang serbisyo at maraming hinihingi.",
+      "time": "12:54 PM"
+    },
+    {
+      "client": "General Public",
+      "id": 99,
+      "sentiment": "Neutral",
+      "service": "Civil Registry",
+      "text": "Standard lang ang serbisyo, walang problema.",
+      "time": "12:57 PM"
+    },
+    {
+      "client": "General Public",
+      "id": 100,
+      "sentiment": "Neutral",
+      "service": "Tax Inquiry",
+      "text": "Standard lang ang serbisyo, walang problema.",
+      "time": "01:00 PM"
+    },
+    {
+      "client": "General Public",
+      "id": 101,
+      "sentiment": "Negative",
+      "service": "Social Welfare",
+      "text": "Matagal ang proseso at kulang ang staff.",
+      "time": "01:03 PM"
+    },
+    {
+      "client": "General Public",
+      "id": 102,
+      "sentiment": "Neutral",
+      "service": "Tax Inquiry",
+      "text": "Katamtaman lang ang bilis ng proseso.",
+      "time": "01:06 PM"
+    },
+    {
+      "client": "General Public",
+      "id": 103,
+      "sentiment": "Negative",
+      "service": "Community Service",
+      "text": "Nakakalito ang instructions.",
+      "time": "01:09 PM"
+    },
+    {
+      "client": "General Public",
+      "id": 104,
+      "sentiment": "Positive",
+      "service": "Barangay Clearance",
+      "text": "Mabilis ang proseso at maasikaso ang personnel.",
+      "time": "01:12 PM"
+    },
+    {
+      "client": "General Public",
+      "id": 105,
+      "sentiment": "Negative",
+      "service": "Tax Inquiry",
+      "text": "Hindi malinaw ang mga requirements.",
+      "time": "01:15 PM"
+    },
+    {
+      "client": "General Public",
+      "id": 106,
+      "sentiment": "Negative",
+      "service": "Civil Registry",
+      "text": "Mabagal ang serbisyo at maraming hinihingi.",
+      "time": "01:18 PM"
+    },
+    {
+      "client": "General Public",
+      "id": 107,
+      "sentiment": "Neutral",
+      "service": "Community Service",
+      "text": "Okay naman ang proseso, may kaunting hintayan.",
+      "time": "01:21 PM"
+    },
+    {
+      "client": "General Public",
+      "id": 108,
+      "sentiment": "Positive",
+      "service": "Civil Registry",
+      "text": "Maayos at mabilis ang serbisyo, very satisfied.",
+      "time": "01:24 PM"
+    },
+    {
+      "client": "General Public",
+      "id": 109,
+      "sentiment": "Neutral",
+      "service": "Health Services",
+      "text": "Nagawa naman ang kailangan.",
+      "time": "01:27 PM"
+    },
+    {
+      "client": "General Public",
+      "id": 110,
+      "sentiment": "Neutral",
+      "service": "Social Welfare",
+      "text": "Nagawa naman ang kailangan.",
+      "time": "01:30 PM"
+    },
+    {
+      "client": "General Public",
+      "id": 111,
+      "sentiment": "Negative",
+      "service": "Health Services",
+      "text": "Mabagal ang serbisyo at maraming hinihingi.",
+      "time": "01:33 PM"
+    },
+    {
+      "client": "General Public",
+      "id": 112,
+      "sentiment": "Neutral",
+      "service": "Health Services",
+      "text": "Katamtaman lang ang bilis ng proseso.",
+      "time": "01:36 PM"
+    },
+    {
+      "client": "General Public",
+      "id": 113,
+      "sentiment": "Neutral",
+      "service": "Social Welfare",
+      "text": "Nagawa naman ang kailangan.",
+      "time": "01:39 PM"
+    },
+    {
+      "client": "General Public",
+      "id": 114,
+      "sentiment": "Negative",
+      "service": "Social Welfare",
+      "text": "Matagal ang proseso at kulang ang staff.",
+      "time": "01:42 PM"
+    },
+    {
+      "client": "General Public",
+      "id": 115,
+      "sentiment": "Negative",
+      "service": "Health Services",
+      "text": "Matagal ang paghihintay sa pila.",
+      "time": "01:45 PM"
+    },
+    {
+      "client": "General Public",
+      "id": 116,
+      "sentiment": "Neutral",
+      "service": "Barangay Clearance",
+      "text": "Okay naman ang proseso, may kaunting hintayan.",
+      "time": "01:48 PM"
+    },
+    {
+      "client": "General Public",
+      "id": 117,
+      "sentiment": "Negative",
+      "service": "Social Welfare",
+      "text": "Hindi malinaw ang mga requirements.",
+      "time": "01:51 PM"
+    },
+    {
+      "client": "General Public",
+      "id": 118,
+      "sentiment": "Negative",
+      "service": "Civil Registry",
+      "text": "Hindi malinaw ang mga requirements.",
+      "time": "01:54 PM"
+    },
+    {
+      "client": "General Public",
+      "id": 119,
+      "sentiment": "Neutral",
+      "service": "Community Service",
+      "text": "Maayos naman ang serbisyo, sakto lang.",
+      "time": "01:57 PM"
+    },
+    {
+      "client": "General Public",
+      "id": 120,
+      "sentiment": "Positive",
+      "service": "Community Service",
+      "text": "Magalang at helpful ang staff, mabilis ang proseso.",
+      "time": "02:00 PM"
+    },
+    {
+      "client": "General Public",
+      "id": 121,
+      "sentiment": "Positive",
+      "service": "Social Welfare",
+      "text": "Smooth ang transaction at maayos ang sistema.",
+      "time": "02:03 PM"
+    },
+    {
+      "client": "General Public",
+      "id": 122,
+      "sentiment": "Negative",
+      "service": "Civil Registry",
+      "text": "Matagal ang proseso at kulang ang staff.",
+      "time": "02:06 PM"
+    },
+    {
+      "client": "General Public",
+      "id": 123,
+      "sentiment": "Positive",
+      "service": "Tax Inquiry",
+      "text": "Smooth ang transaction at maayos ang sistema.",
+      "time": "02:09 PM"
+    },
+    {
+      "client": "General Public",
+      "id": 124,
+      "sentiment": "Positive",
+      "service": "Civil Registry",
+      "text": "Magalang at helpful ang staff, mabilis ang proseso.",
+      "time": "02:12 PM"
+    },
+    {
+      "client": "General Public",
+      "id": 125,
+      "sentiment": "Positive",
+      "service": "Civil Registry",
+      "text": "Maayos at mabilis ang serbisyo, very satisfied.",
+      "time": "02:15 PM"
+    },
+    {
+      "client": "General Public",
+      "id": 126,
+      "sentiment": "Negative",
+      "service": "Social Welfare",
+      "text": "Nakakalito ang instructions.",
+      "time": "02:18 PM"
+    },
+    {
+      "client": "General Public",
+      "id": 127,
+      "sentiment": "Neutral",
+      "service": "Health Services",
+      "text": "Maayos naman ang serbisyo, sakto lang.",
+      "time": "02:21 PM"
+    },
+    {
+      "client": "General Public",
+      "id": 128,
+      "sentiment": "Positive",
+      "service": "Business Permit",
+      "text": "Magalang at helpful ang staff, mabilis ang proseso.",
+      "time": "02:24 PM"
+    },
+    {
+      "client": "General Public",
+      "id": 129,
+      "sentiment": "Neutral",
+      "service": "Civil Registry",
+      "text": "Okay naman ang proseso, may kaunting hintayan.",
+      "time": "02:27 PM"
+    },
+    {
+      "client": "General Public",
+      "id": 130,
+      "sentiment": "Positive",
+      "service": "Civil Registry",
+      "text": "Malinaw ang paliwanag at accommodating ang staff.",
+      "time": "02:30 PM"
+    },
+    {
+      "client": "General Public",
+      "id": 131,
+      "sentiment": "Positive",
+      "service": "Tax Inquiry",
+      "text": "Maayos at mabilis ang serbisyo, very satisfied.",
+      "time": "02:33 PM"
+    },
+    {
+      "client": "General Public",
+      "id": 132,
+      "sentiment": "Neutral",
+      "service": "Barangay Clearance",
+      "text": "Standard lang ang serbisyo, walang problema.",
+      "time": "02:36 PM"
+    },
+    {
+      "client": "General Public",
+      "id": 133,
+      "sentiment": "Neutral",
+      "service": "Business Permit",
+      "text": "Maayos naman ang serbisyo, sakto lang.",
+      "time": "02:39 PM"
+    },
+    {
+      "client": "General Public",
+      "id": 134,
+      "sentiment": "Negative",
+      "service": "Community Service",
+      "text": "Mabagal ang serbisyo at maraming hinihingi.",
+      "time": "02:42 PM"
+    },
+    {
+      "client": "General Public",
+      "id": 135,
+      "sentiment": "Positive",
+      "service": "Civil Registry",
+      "text": "Malinaw ang paliwanag at accommodating ang staff.",
+      "time": "02:45 PM"
+    },
+    {
+      "client": "General Public",
+      "id": 136,
+      "sentiment": "Negative",
+      "service": "Tax Inquiry",
+      "text": "Matagal ang proseso at kulang ang staff.",
+      "time": "02:48 PM"
+    },
+    {
+      "client": "General Public",
+      "id": 137,
+      "sentiment": "Negative",
+      "service": "Business Permit",
+      "text": "Matagal ang paghihintay sa pila.",
+      "time": "02:51 PM"
+    },
+    {
+      "client": "General Public",
+      "id": 138,
+      "sentiment": "Neutral",
+      "service": "Business Permit",
+      "text": "Nagawa naman ang kailangan.",
+      "time": "02:54 PM"
+    },
+    {
+      "client": "General Public",
+      "id": 139,
+      "sentiment": "Neutral",
+      "service": "Community Service",
+      "text": "Nagawa naman ang kailangan.",
+      "time": "02:57 PM"
+    },
+    {
+      "client": "General Public",
+      "id": 140,
+      "sentiment": "Negative",
+      "service": "Barangay Clearance",
+      "text": "Nakakalito ang instructions.",
+      "time": "03:00 PM"
+    },
+    {
+      "client": "General Public",
+      "id": 141,
+      "sentiment": "Positive",
+      "service": "Community Service",
+      "text": "Smooth ang transaction at maayos ang sistema.",
+      "time": "03:03 PM"
+    },
+    {
+      "client": "General Public",
+      "id": 142,
+      "sentiment": "Negative",
+      "service": "Health Services",
+      "text": "Matagal ang paghihintay sa pila.",
+      "time": "03:06 PM"
+    },
+    {
+      "client": "General Public",
+      "id": 143,
+      "sentiment": "Positive",
+      "service": "Social Welfare",
+      "text": "Malinaw ang paliwanag at accommodating ang staff.",
+      "time": "03:09 PM"
+    },
+    {
+      "client": "General Public",
+      "id": 144,
+      "sentiment": "Positive",
+      "service": "Community Service",
+      "text": "Malinaw ang paliwanag at accommodating ang staff.",
+      "time": "03:12 PM"
+    },
+    {
+      "client": "General Public",
+      "id": 145,
+      "sentiment": "Negative",
+      "service": "Barangay Clearance",
+      "text": "Mabagal ang serbisyo at maraming hinihingi.",
+      "time": "03:15 PM"
+    },
+    {
+      "client": "General Public",
+      "id": 146,
+      "sentiment": "Negative",
+      "service": "Business Permit",
+      "text": "Mabagal ang serbisyo at maraming hinihingi.",
+      "time": "03:18 PM"
+    },
+    {
+      "client": "General Public",
+      "id": 147,
+      "sentiment": "Positive",
+      "service": "Civil Registry",
+      "text": "Mabilis ang proseso at maasikaso ang personnel.",
+      "time": "03:21 PM"
+    },
+    {
+      "client": "General Public",
+      "id": 148,
+      "sentiment": "Negative",
+      "service": "Barangay Clearance",
+      "text": "Nakakalito ang instructions.",
+      "time": "03:24 PM"
+    },
+    {
+      "client": "General Public",
+      "id": 149,
+      "sentiment": "Negative",
+      "service": "Business Permit",
+      "text": "Nakakalito ang instructions.",
+      "time": "03:27 PM"
+    },
+    {
+      "client": "General Public",
+      "id": 150,
+      "sentiment": "Negative",
+      "service": "Tax Inquiry",
+      "text": "Mabagal ang serbisyo at maraming hinihingi.",
+      "time": "03:30 PM"
+    }
+  ]
+}
+

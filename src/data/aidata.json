@@ -1,0 +1,341 @@
+{
+  "daily": [
+    {
+      "date": "2026-01-10",
+      "average_rating": 1.88,
+      "severity": "Critical",
+      "recommendations": [
+        "Implement an emergency service improvement plan",
+        "Deploy additional frontline staff during peak hours",
+        "Standardize all service workflows immediately",
+        "Strengthen complaint handling and escalation procedures",
+        "Conduct mandatory ethics and customer service training",
+        "Require daily performance monitoring and reporting"
+      ]
+    },
+    {
+      "date": "2026-01-11",
+      "average_rating": 2.05,
+      "severity": "High",
+      "recommendations": [
+        "Enforce clear response time standards",
+        "Introduce a ticket-based tracking system",
+        "Assign staff to monitor unresolved requests",
+        "Provide refresher training on service prioritization",
+        "Escalate delayed requests to supervisors"
+      ]
+    },
+    {
+      "date": "2026-01-12",
+      "average_rating": 2.14,
+      "severity": "High",
+      "recommendations": [
+        "Standardize service procedures across departments",
+        "Use service checklists to reduce errors",
+        "Monitor service completion rates daily",
+        "Hold staff accountable for delays",
+        "Provide guidance for complex transactions"
+      ]
+    },
+    {
+      "date": "2026-01-13",
+      "average_rating": 2.22,
+      "severity": "High",
+      "recommendations": [
+        "Improve clarity of service instructions",
+        "Train staff on effective communication",
+        "Display process guides at service counters",
+        "Ensure citizens understand service steps"
+      ]
+    },
+    {
+      "date": "2026-01-14",
+      "average_rating": 2.31,
+      "severity": "High",
+      "recommendations": [
+        "Improve cleanliness and seating in waiting areas",
+        "Upgrade service counters and equipment",
+        "Ensure accessibility for PWDs and senior citizens",
+        "Improve directional signage"
+      ]
+    },
+    {
+      "date": "2026-01-15",
+      "average_rating": 2.48,
+      "severity": "High",
+      "recommendations": [
+        "Display official service fees clearly",
+        "Ensure staff explain costs before transactions",
+        "Prevent unauthorized service charges",
+        "Regularly review service fees"
+      ]
+    },
+    {
+      "date": "2026-01-16",
+      "average_rating": 2.63,
+      "severity": "Medium",
+      "recommendations": [
+        "Provide targeted skills training for staff",
+        "Assign experienced personnel to complex cases",
+        "Encourage professional and courteous behavior"
+      ]
+    },
+    {
+      "date": "2026-01-17",
+      "average_rating": 2.85,
+      "severity": "Medium",
+      "recommendations": [
+        "Review completed transactions for accuracy",
+        "Use citizen feedback to refine services",
+        "Set realistic performance targets"
+      ]
+    },
+    {
+      "date": "2026-01-18",
+      "average_rating": 3.12,
+      "severity": "Low",
+      "recommendations": [
+        "Continue monitoring service performance",
+        "Maintain current service standards"
+      ]
+    },
+    {
+      "date": "2026-01-19",
+      "average_rating": 3.54,
+      "severity": "Minimal",
+      "recommendations": [
+        "Sustain good service practices"
+      ]
+    }
+  ],
+  "weekly": [
+    {
+      "week": "Week 1 (Nov 10–16)",
+      "average_rating": 1.92,
+      "severity": "Critical",
+      "recommendations": [
+        "Launch an emergency service recovery program",
+        "Deploy additional staff during peak service hours",
+        "Standardize all service procedures immediately",
+        "Strengthen complaint handling and escalation mechanisms",
+        "Conduct mandatory ethics and customer service training",
+        "Require daily performance reporting from supervisors"
+      ]
+    },
+    {
+      "week": "Week 2 (Nov 17–23)",
+      "average_rating": 2.03,
+      "severity": "High",
+      "recommendations": [
+        "Enforce clear response time standards",
+        "Introduce a centralized ticketing system",
+        "Assign staff to monitor unresolved citizen requests",
+        "Provide refresher training on service prioritization",
+        "Escalate delayed cases to management"
+      ]
+    },
+    {
+      "week": "Week 3 (Nov 24–30)",
+      "average_rating": 2.14,
+      "severity": "High",
+      "recommendations": [
+        "Standardize service workflows across departments",
+        "Use service checklists to prevent errors",
+        "Monitor service completion rates weekly",
+        "Hold staff accountable for delays"
+      ]
+    },
+    {
+      "week": "Week 4 (Dec 1–7)",
+      "average_rating": 2.22,
+      "severity": "High",
+      "recommendations": [
+        "Improve clarity of service instructions",
+        "Train staff on effective communication",
+        "Display service process guides at counters",
+        "Ensure citizens understand service steps"
+      ]
+    },
+    {
+      "week": "Week 5 (Dec 8–14)",
+      "average_rating": 2.31,
+      "severity": "High",
+      "recommendations": [
+        "Improve cleanliness and seating in waiting areas",
+        "Upgrade service counters and equipment",
+        "Ensure accessibility for PWDs and senior citizens",
+        "Improve directional signage"
+      ]
+    },
+    {
+      "week": "Week 6 (Dec 15–21)",
+      "average_rating": 2.47,
+      "severity": "High",
+      "recommendations": [
+        "Display official service fees clearly",
+        "Ensure staff explain costs before transactions",
+        "Prevent unauthorized or unofficial charges",
+        "Regularly review service fees for fairness"
+      ]
+    },
+    {
+      "week": "Week 7 (Dec 22–28)",
+      "average_rating": 2.62,
+      "severity": "Medium",
+      "recommendations": [
+        "Conduct targeted skills training for staff",
+        "Assign experienced staff to complex cases",
+        "Encourage courteous and professional behavior"
+      ]
+    },
+    {
+      "week": "Week 8 (Dec 29–Jan 4)",
+      "average_rating": 2.81,
+      "severity": "Medium",
+      "recommendations": [
+        "Review completed transactions for accuracy",
+        "Use citizen feedback to improve service outcomes",
+        "Set realistic performance targets"
+      ]
+    },
+    {
+      "week": "Week 9 (Jan 5–11)",
+      "average_rating": 3.08,
+      "severity": "Low",
+      "recommendations": [
+        "Continue monitoring service performance",
+        "Maintain current service standards"
+      ]
+    },
+    {
+      "week": "Week 10 (Jan 12–18)",
+      "average_rating": 2.68,
+      "severity": "Medium",
+      "recommendations": [
+        "Conduct a review of recent service delays and minor complaints",
+        "Provide refresher training on customer handling and communication",
+        "Monitor staff performance consistency across all service counters",
+        "Strengthen supervision during peak service hours",
+        "Set short-term improvement targets for underperforming services"
+      ]
+    }
+  ],
+  "monthly": [
+    {
+      "month": "April 2025",
+      "average_rating": 1.89,
+      "public_satisfaction": 64.2,
+      "severity": "Critical",
+      "recommendations": [
+        "Implement a comprehensive service recovery program",
+        "Deploy additional personnel to high-demand services",
+        "Standardize all service procedures across offices",
+        "Strengthen complaint handling and escalation systems",
+        "Conduct mandatory ethics and customer service training",
+        "Establish monthly performance audits"
+      ]
+    },
+    {
+      "month": "May 2025",
+      "average_rating": 2.04,
+      "public_satisfaction": 65.8,
+      "severity": "High",
+      "recommendations": [
+        "Enforce clear service response time standards",
+        "Introduce centralized service request tracking",
+        "Assign accountability for unresolved cases",
+        "Provide refresher training on service prioritization",
+        "Escalate repeated delays to management"
+      ]
+    },
+    {
+      "month": "June 2025",
+      "average_rating": 2.15,
+      "public_satisfaction": 66.9,
+      "severity": "High",
+      "recommendations": [
+        "Standardize workflows and documentation",
+        "Use service checklists to minimize errors",
+        "Monitor service completion and error rates",
+        "Apply corrective actions for recurring issues"
+      ]
+    },
+    {
+      "month": "July 2025",
+      "average_rating": 2.24,
+      "public_satisfaction": 67.6,
+      "severity": "High",
+      "recommendations": [
+        "Improve clarity of service instructions",
+        "Train staff on effective communication skills",
+        "Enhance visibility of service information",
+        "Ensure citizens understand service processes"
+      ]
+    },
+    {
+      "month": "August 2025",
+      "average_rating": 2.33,
+      "public_satisfaction": 68.2,
+      "severity": "High",
+      "recommendations": [
+        "Upgrade waiting area facilities and seating",
+        "Ensure accessibility for PWDs and senior citizens",
+        "Improve service counter layout and signage",
+        "Conduct regular facility maintenance checks"
+      ]
+    },
+    {
+      "month": "September 2025",
+      "average_rating": 2.49,
+      "public_satisfaction": 69.0,
+      "severity": "High",
+      "recommendations": [
+        "Display official service fees clearly",
+        "Ensure staff explain charges before transactions",
+        "Prevent unauthorized or unofficial fees",
+        "Review service costs for fairness and transparency"
+      ]
+    },
+    {
+      "month": "October 2025",
+      "average_rating": 2.64,
+      "public_satisfaction": 70.1,
+      "severity": "Medium",
+      "recommendations": [
+        "Provide targeted competency training for staff",
+        "Assign experienced personnel to complex services",
+        "Promote professionalism and courtesy"
+      ]
+    },
+    {
+      "month": "November 2025",
+      "average_rating": 2.83,
+      "public_satisfaction": 71.3,
+      "severity": "Medium",
+      "recommendations": [
+        "Review completed services for quality and accuracy",
+        "Utilize citizen feedback for service improvement",
+        "Set realistic performance targets"
+      ]
+    },
+    {
+      "month": "December 2025",
+      "average_rating": 3.09,
+      "public_satisfaction": 72.5,
+      "severity": "Low",
+      "recommendations": [
+        "Continue monitoring service performance",
+        "Maintain current service standards"
+      ]
+    },
+    {
+      "month": "January 2026",
+      "average_rating": 3.47,
+      "public_satisfaction": 74.1,
+      "severity": "Minimal",
+      "recommendations": [
+        "Sustain effective service practices"
+      ]
+    }
+  ]
+}
